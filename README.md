@@ -1,6 +1,6 @@
 git-demo-20200527
 =================
 
-Demo repo for learning Git
+Démo repo pour apprendre Git
 
-Craig made some more changes here.
+Craig a apporté quelques modifications supplémentaires ici.
