@@ -1,3 +1,9 @@
 *.html
 
 # Tony made some changes.
+gradle/
+.idea/
+.gradle/
+
+gradlew
+gradlew.bat
